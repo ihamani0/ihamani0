@@ -1,7 +1,24 @@
-- 👋 Hi, I’m issam eddine HAMANI i am student cyber security Masrer Degree 
-- 👀 I’m interested in  Web Dev and embedded system 
-- i have skilles in frontend and backend 
-<!---
-ihamani0/ihamani0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Welcome to my GitHub profile. I'm a passionate full-stack developer with a strong interest in **embedded systems**, **IoT**, and **e-commerce development**.
+
+### 👋 Hi, I’m issam eddine HAMANI i am student cyber security Masrer Degree 
+
+
+---
+
+## 🧠 About Me
+
+- 💻 Experienced in **Backend**, **frontend**, **Security** and **Network**.
+- 🌍 Building websites with Nice UI/UX and Server Side.
+- 🎯 Focused on mindset, growth, and building strong foundations for future success.
+
+---
+
+## 🚀 Tech Stack
+
+```ts
+Frontend     => HTML CSS , Java Script  , React, Vue js , Tailwind CSS, GSAP, i18next  
+Backend      => Laravel, Node.js (Express.js), Appwrite  
+Mobile       => now learning React Native   
+Database     => MySQL, MongoDB , MongoDb ,  now learning postgress 
+Tools & More => Git, Docker, Figma, Postman , Linux , ML/DL 
+
