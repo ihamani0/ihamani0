@@ -1,8 +1,10 @@
 
 
-### 👋 Hi, I’m issam eddine HAMANI i am student cyber security Masrer Degree 
+# 👋 Hi, I’m issam eddine HAMANI i am student cyber security Masrer Degree 
 
-**Welcome to my GitHub profile. I'm a passionate full-stack developer with a strong interest in **embedded systems**, **IoT**.
+
+**Welcome to my GitHub profile. I'm a passionate full-stack developer with a strong interest in **embedded systems**, **IoT** .**
+
 ---
 
 ## 🧠 About Me
