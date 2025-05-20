@@ -21,6 +21,6 @@
 Frontend     => HTML CSS , Java Script  , React, Vue js , Tailwind CSS, GSAP, i18next  
 Backend      => Laravel, Node.js (Express.js), Appwrite  
 Mobile       => now learning React Native   
-Database     => MySQL, MongoDB , MongoDb ,  now learning postgress 
+Database     => MySQL , MongoDb ,  postgresql
 Tools & More => Git, Docker, Figma, Postman , Linux , ML/DL 
 
